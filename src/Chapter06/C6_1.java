@@ -3,7 +3,7 @@ package Chapter06;
 import java.util.Scanner;
 
 /**
- * Program to enter password and tell if it is acceptable
+ * Program to enter password and tell if it is acceptable.
  *
  * @author Carlye White
  */
